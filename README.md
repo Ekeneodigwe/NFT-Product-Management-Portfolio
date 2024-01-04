@@ -13,3 +13,5 @@ Featuring:
 🧑‍🤝‍🧑Collaboration playbooks jointly authored with guest artists like DigiKraft for coaching emerging generative creators
 
 Leveraging blockchain technology to reframe cultural ownership, #DerivedArt has led a movement unlocking new horizons for public artifacts to live on. This repository provides transparency into the product and growth methodologies powering that impact.
+
+## #DerivedArt Product - https://github.com/Ekeneodigwe/NFT-Product-Management-Portfolio/issues/1
